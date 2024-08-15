@@ -78,12 +78,6 @@ The Document Summarizer application is a Streamlit-based web app designed to sum
 
 **Solution**: Added comprehensive error handling to catch and manage exceptions, providing informative error messages to users while maintaining application stability.
 
-## Conclusion
-
-The Document Summarizer application successfully demonstrates the integration of NLP capabilities within a Streamlit app to provide document summarization services. Through iterative development and optimization, the application effectively handles various document formats and offers a robust user experience.
-
-For further improvements, future iterations could explore more efficient models or offer additional features, such as summarization customization or integration with cloud storage solutions.
-
 ************************************************************
 
 # Bibliography
